@@ -19,3 +19,5 @@ error message : `You're importing a component that needs useEffect. It only work
 
 To fix this error, you just have to specify that it is a client-side component
 writing `'use client';` in the first line of your component.
+
+![final](./support/final.png)
